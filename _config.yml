@@ -11,9 +11,9 @@ title                    : "Anisha Mazumder"
 title_separator          : "-"
 name                     : &name "Anisha Mazumder"
 description              : &description "Hi! I am Anisha and welcome to my webpage. I am currently working in Microsoft.Corp in Redmond, WA as an Applied Machine Learning Engineer. I received my PhD in Computer Science from Arizona State University in 2016 under the guidance of Dr. Arunabha Sen. Prior to that I received my Bachelor of Engineering degree in Computer Science and Engineering from Jadavpur University, Kolkata in 2012."
-url                      : https://A9isha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://a9isha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "A9isha.github.io"
+repository               : "A9isha/a9isha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
